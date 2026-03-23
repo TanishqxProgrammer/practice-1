@@ -1,4 +1,4 @@
 # practice-1
 practicing
 <br>
-Author - Tanishq mishra
+Author - Tanishq mishra (me)
